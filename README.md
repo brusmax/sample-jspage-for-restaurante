@@ -2,7 +2,7 @@
 
 > ## From The Odin Project's [curriculum](https://www.theodinproject.com/courses/javascript/lessons/restaurant-page)
 
-> - [live demo](url) 
+> - [live demo](https://brusmax.github.io/sample-jspage-for-restaurante/) 
 
 ## Assignment
 > Create a restaurant page using JavaScript to generate the entire contents of the website
